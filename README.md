@@ -9,6 +9,8 @@ DDoS detection in IoT network traffic with a variety of machine learning classif
 
 classification with feature reduction test.
 
-Datasets: https://drive.google.com/drive/folders/14vkF8LeoXpQVqY_sJs0YJmxYo66Zj0sh?usp=sharing
+Datasets:  https://www.kaggle.com/siddharthm1698/ddos-botnet-attack-on-iot-devices/version/1
 
-Work done with Google Colab. 
+Do Not put the .csv under the folder for commit to github.
+        
+
