@@ -11,6 +11,9 @@ classification with feature reduction test.
 
 Datasets:  https://www.kaggle.com/siddharthm1698/ddos-botnet-attack-on-iot-devices/version/1
 
-Do Not put the .csv under the folder for commit to github.
+Note : Do Not put the .csv under the folder for commit to github.
+
+How to capture the traffic data.
+Idea : https://prezi.com/f0pdhi7e3pe7/ddos-attack-detection-using-python/
         
 
